@@ -1,0 +1,12 @@
+LIEN : http://www.guillaumeartiste3d.ca/
+ACCES ADMIN: 
+USERNAME: gui
+MOT DE PASSE: Gogo2005!
+
+
+Liste de fichier :
+TpPlugin.php : 	     Execute les fonctions nécessaire à l'installation et désinstallation
+TpPlugin-hook.php:      S'occupe de tous les hook
+TpPlugin-install.php:    Contient toutes les fonctions d'installation et désinstallation
+TpPlugin-page.php:       Contient toutes les fonctions qui vas créer les pages
+TpPlugin-settings.php:Page de réglage
