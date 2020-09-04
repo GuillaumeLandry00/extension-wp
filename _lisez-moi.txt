@@ -1,7 +1,3 @@
-LIEN : http://www.guillaumeartiste3d.ca/
-ACCES ADMIN: 
-USERNAME: gui
-MOT DE PASSE: Gogo2005!
 
 
 Liste de fichier :
